@@ -9,3 +9,28 @@ git commit - initialize project
 git status - checks project status
 git add <filename>
 git commit -m 'this is my first commit for notes'
+
+How to get github notes
+Sublime text > file > open file
+
+Command to start a new repository - folder > git init
+after git init how to make a new file - touch <filename>
+
+3 Levels of knowing
+1. understand and knowing 
+2. teaching and reinforcing
+3. grocking - to understand invitively
+
+git push- uploads everything into repository 
+	
+	Github remote*
+Ex. ~~~~~~~~~~~~~~~ =internet
+working directory [text.txt] Git add [staging] > Git commit [Local Git] >Github remote*
+
+Tools
+1.Sublime Text
+2. Github
+3. Git Shell
+
+CLI - command line interface 
+GUI - graphical user interface
