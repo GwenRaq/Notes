@@ -35,6 +35,14 @@ Tools
 CLI - command line interface 
 GUI - graphical user interface
 
+<p></p> = paragraph element
+</a> = closing tag
+<header></header> = navigation logo
+<footer></footer> = copyright
+<div></div> = block element, start new lines
+<span></span> = inline element
+<img/>
+
 UI - user interface 
 *graphical design of the site
 *visual element 
