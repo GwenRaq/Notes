@@ -72,3 +72,27 @@ SIDE DIV
      </ul>
  </nav>
 </div> <!--end of aside div-->
+
+~9/28~
+Responsive Design: Building a site to respond to multiple sizes also known as fluid design. 
+	Ex: Google, Facebook, beta.rallyinteractive.com
+Grid Based Web Design: Web design with a grid content layout.
+	Ex:Pintrest, Google Fonts, Tumblr 
+Media Queries: Break points in css that tells your app to change according to screensize. It changes the width of the screen depending on how big or small your device is. 
+	Ex: @media only screen and (max-width: 500px) {
+    		body {
+        		background-color: lightblue;
+    		}
+		}
+Whats em in css: Unit of measuremnet in CSS that adjusts to parent times 150%. Use em in responsive design and pixels on static pages.
+Convert px to em: Multiply by 1.5
+Pseudo class selector: Used to define a special state of an element.
+Ex: Hover
+Mobile Design: Web App desiged for mobile devices.
+	a. What makes the design effective for a mobile? 
+		Media Queries/Simple to use
+	b. Example: Instagram 
+	c. What makes the design ineefective for mobile(what is it missing) Media Queries
+Specificity: Every selector has its place in the specificity hierarchy. If two selectors apply to the same element, the one with higher specificity wins.
+	Ex: div#test span(color:green)
+
