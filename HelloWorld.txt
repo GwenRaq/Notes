@@ -1,17 +1,16 @@
-cd / = root 
-.. = move up
+cd /               = root 
+..                 = move up
 mkdir <foldername> = make folder
-touch <filename> = make file
-ls = list directions
+touch <filename>   = make file
+ls                 = list directions
 
 GIT COMMANDS
+____________
+
 git commit - initialize project
 git status - checks project status
-git add <filename>
 git commit -m 'this is my first commit for notes'
-
-How to get github notes
-Sublime text > file > open file
+git add <filename>
 
 Command to start a new repository - folder > git init
 after git init how to make a new file - touch <filename>
@@ -19,7 +18,7 @@ after git init how to make a new file - touch <filename>
 3 Levels of knowing
 1. understand and knowing 
 2. teaching and reinforcing
-3. grocking - to understand invitively
+ 3. grocking - to understand invitively
 
 git push- uploads everything into repository 
 	
@@ -29,18 +28,18 @@ working directory [text.txt] Git add [staging] > Git commit [Local Git] >Github 
 
 Tools
 1.Sublime Text
-2. Github
+ 2. Github
 3. Git Shell
 
 CLI - command line interface 
 GUI - graphical user interface
 
-<p></p> = paragraph element
-</a> = closing tag
-<header></header> = navigation logo
-<footer></footer> = copyright
-<div></div> = block element, start new lines
-<span></span> = inline element
+<p></p>            = paragraph element
+</a>               = closing tag
+<header></header>  = navigation logo
+<footer></footer>  = copyright
+<div></div>        = block element, start new lines
+<span></span>      = inline element
 <img/>
 
 UI - user interface 
@@ -55,23 +54,10 @@ UX _ user experience
 *organization
 
 types of list
-<ul> = unorderd list
+<ul>       = unorderd list
 <li> </li> = list item
-<ol></ol> = orderd list
+<ol></ol>  = orderd list
 <niv></niv> 
-
-SIDE DIV
-<div aside>
-<h3>title
- <nav>
-   <ul>
-      <li><a href=""> <!-- href means homer eference --> 
-            title
-          </a>
-     </li>
-     </ul>
- </nav>
-</div> <!--end of aside div-->
 
 ~9/28~
 Responsive Design: Building a site to respond to multiple sizes also known as fluid design. 
