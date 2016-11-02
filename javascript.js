@@ -51,5 +51,16 @@ function creatGreen (name, age){
 		return 'hello MRS. ' + name; //this doesnt work
 	}
 }
+//Example
+var degreeOutside = 70;
+var numberOfClouds = 50;
+
+function isItRaining(degreeOutside,numberOfClouds){
+	if (degreeOutside > 70 && numberOfClouds > 50){
+		return console.log('it"s raining outside!');
+	}
+}
+
+isItRaining(50,20)
 
 
