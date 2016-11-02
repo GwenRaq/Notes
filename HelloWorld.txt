@@ -81,4 +81,26 @@ Mobile Design: Web App desiged for mobile devices.
 	c. What makes the design ineefective for mobile(what is it missing) Media Queries
 Specificity: Every selector has its place in the specificity hierarchy. If two selectors apply to the same element, the one with higher specificity wins.
 	Ex: div#test span(color:green)
+slides.com/ifang/javascriptbasics#/0/1
 
+Why use javascript?
+Makes website interactive.
+Uses PEMDAS for math.
+
+Variables: containers that store data
+Can't have spaces. 
+Do not begin variable names with numbers.
+
+Data Types: numbers, strings, boolean, undefined 
+
+console.log("Jon"+"Tan"); = "JonTan"
+console.log("Jon"+ " "+ Tan"); = "Jon Tan"
+
+Conditional Statements: blocks of code that say "if (some condition evaluates to true), then do some code"
+
+= assigments, used for variables
+ex. var = 5;
+== 
+!== not equals
+&& and
+l l or
